@@ -1,4 +1,4 @@
-## Hi there ,welcome to my github profile👏
+
 
 ![Trophime's GitHub stats](https://github-readme-stats.vercel.app/api?username=trophime1&show_icons=true&theme=blue-green)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trophime1&show_icons=true&theme=blue-green)
